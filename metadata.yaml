@@ -1,0 +1,35 @@
+_repo: Every-Man-for-Himself_36998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duncan, Norman
+    birthdate: 1871
+    deathdate: 1916
+    gutenberg_agent_id: '9008'
+    url: http://www.gutenberg.org/2009/agents/9008
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
+description: ''
+gutenberg_issued: '2011-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialect literature, Canadian'
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Fishing villages -- Fiction'
+- !lcsh 'Newfoundland and Labrador -- Fiction'
+- !lcc 'PS'
+tableOfContents: The wayfarer -- A matter of expediency -- The minstrel -- The squall
+  -- The fool of Skeleton Tickle -- A comedy of Candlestick Cove -- "By-an'-by" Brown
+  of Blunder Cove -- They who lose at love -- The revolution at Satan's Trap -- The
+  surplus.
+title: Every Man for Himself
+url: http://www.gutenberg.org/ebooks/36998
